@@ -1,0 +1,51 @@
+html, body{
+    text-align: center;
+   
+}
+.div-1{
+    background-image: url('images/headphones_hero_1.jpg');
+}
+.logo{
+    float: left;
+    width: 200px;
+    height: 100px;
+    display: inline;
+}
+
+nav li{
+  display: inline-block;
+}
+
+nav li a{
+    display: block;
+    padding:10px 15px;
+    text-align: center;
+    color: white;
+    display: block;
+}
+nav li a:hover{
+    color:#FF6565;
+}
+
+ul{
+    list-style-type: none;     
+}
+.button1{
+    color: white;
+    opacity: 0.9;
+    background-color:#FF6565;
+    border-radius: 10px;
+}
+
+h2{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+    line-height: 50px;
+}
+.brand{
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
